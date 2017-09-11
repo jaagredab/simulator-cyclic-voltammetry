@@ -15,3 +15,5 @@ java -jar dist/voltammetry-1.0.0.jar
 * Spring MVC 4
 * Apache Tomcat/8.5.1
 * Highcharts Education https://www.highcharts.com/blog/industry/education/
+
+Take in count the difference between the mV vs V
